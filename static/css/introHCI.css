@@ -32,3 +32,32 @@ body {
      position: absolute;
      z-index: -1;	
 }
+
+/* SOLUTION I CAME UP WITH */
+/*.project {
+     margin-left: 20px;
+     background-color: #D2E6F5;
+     padding: 20px;
+     width: 520px;
+}*/
+
+/* SOLUTION ON LAB SLIDES */
+/*.project {
+     margin-left: 20px;
+     background-color: #deebf7;
+     padding: 20px;
+     width: 525px;
+}*/
+
+/* FROM LAB SLIDES WHEN EXPERIMENTING */
+/*p {
+     font-variant: small-caps;
+}
+
+.project p {
+     font-variant: small-caps;
+}
+
+#project1 {
+     font-variant: small-caps;
+}*/
